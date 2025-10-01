@@ -28,10 +28,6 @@ var respecConfig =
   otherLinks: [{
     key: "GitHub", href: "https://github.com/stichtingrioned/revisieverwerking-verkenning/"
   }],
-  //github: "https://github.com/StichtingRIONED/GWSW"
-  //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  //issueBase: "https://github.com/StichtingRIONED/GWSW/issues/",
-
   thisVersion: "https://stichtingrioned.github.io//revisieverwerking-verkenning/",
   latestVersion: "", // gepubliceerde versie
   edDraftURI: "https://stichtingrioned.github.io//revisieverwerking-verkenning/", // werkversie
