@@ -15,7 +15,7 @@ var respecConfig =
   }],
   authors: [{
     name: "Jochem Mollema",
-    url: "mailto:jochem@.unafact.nl",
+    url: "mailto:jochem@unafact.nl",
     company: "UNAFACT",
     companyURL: "https://www.unafact.nl"
   },
